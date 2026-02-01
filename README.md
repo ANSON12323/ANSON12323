@@ -1,9 +1,8 @@
 # 💫 Hi there, I am Anson:
 I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on free time and a passionate Robotics Engineer with a passion to build and develop Robotics which makes our life easier.<br>
 # 💫 About Me:
-<br>👨‍🎓 I am currently working as a Graduate Research Engineer at UNLV, where we are developing a single port multi arm tool for minimally invasive neurosurgery.<br>👨‍🎓 Previously I was working as a Robotics Software Engineer at SS Innovations International Inc, where we indigenously developed India's first surgical robotics system SSI Mantra.<br>I have been part of multiple projects:<br>
-<br>Major ones include<br>
-<div style="margin-left:40px;">
+<br>👨‍🎓 I am currently working as a Graduate Research Engineer at UNLV, where we are developing a single port multi arm tool for minimally invasive neurosurgery.<br>👨‍🎓 Previously I was working as a Robotics Software Engineer at SS Innovations International Inc, where we indigenously developed India's first surgical robotics system SSI Mantra.<br>I have been part of multiple projects, Major ones include<br>
+<div style="margin-left:100px;">
 1. Calibration of the modular surgical robots  <br>
 2. Head tracking for open console safety  <br>
 3. Telesurgery  <br>
