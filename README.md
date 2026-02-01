@@ -6,7 +6,7 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
 <br>👨‍🎓 Along with my research engineer position i am doing my second MS in Robotic from Defense Institute of Advanced Technology, India<br>👨‍🎓 I have completed my M-Tech in Robotic from Defense Institute of Advanced Technology, India<br>👨‍🎓 I have completed my B-Tech from Dr APJ Abdul Kalam Technical University, India<br>👨‍💻 I like to develop applications that solve real life problems.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anson-paul-0b0118168/) 
 
 # 💻 Worked With:
