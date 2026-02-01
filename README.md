@@ -34,7 +34,7 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
 ## 🌐 Patents:
 
 <p align="left">
-  <a href="[https://your-link-1.com](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025154091&_cid=P10-MDLRT4-68426-1)" target="_blank">
+  <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=EP436115185&_fid=WO2024121859" target="_blank">
     <img src="https://github.com/user-attachments/assets/4d35b90c-016f-417c-8f77-2d2972cda3df" width="200" />
     <span><sub><b>Patent 1</b></sub></span>
   </a>
