@@ -21,9 +21,10 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
 [![](https://visitcount.itsvg.in/api?id=ANSON12323&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Media:
-![Launch](https://github.com/user-attachments/assets/615c9143-c196-48ff-a44f-d6eee85f179d)
-
-![Poster](https://github.com/user-attachments/assets/00e53bbd-3611-40be-875c-a5d332ea9586)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/615c9143-c196-48ff-a44f-d6eee85f179d" width="300" />
+  <img src="https://github.com/user-attachments/assets/00e53bbd-3611-40be-875c-a5d332ea9586" width="300" />
+</p>
 
 ## 🌐 Motivation:
 ![Tony 2](https://github.com/user-attachments/assets/cdb192bd-0087-4b73-a7b6-64f6ef9d322c)
