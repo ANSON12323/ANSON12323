@@ -3,13 +3,13 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
 # 💫 About Me:
 <br>👨‍🎓 I am currently working as a Graduate Research Engineer at UNLV, where we are developing a single port multi arm tool for minimally invasive neurosurgery.<br>👨‍🎓 Previously I was working as a Robotics Software Engineer at SS Innovations International Inc, where we indigenously developed India's first surgical robotics system SSI Mantra.<br>I have been part of multiple projects:<br>
 <br>Major ones include<br>
-<span style="display:inline-block; margin-left:100px;">
-<br>1.Calibration of the Modular surgical robots<br>   
-<br>2.Head tracking for open console safety<br>  
-<br>3.Telesurgery<br>   
-<br>4.Dual console development<br>
-<br>5.Developed algorithms and controls for multiple applications for surgical robotics<br>
-</span>
+<div style="margin-left:40px;">
+1. Calibration of the modular surgical robots  
+2. Head tracking for open console safety  
+3. Telesurgery  
+4. Dual console development  
+5. Developed algorithms and controls for multiple applications for surgical robotics  
+</div>
 <br>I hold 4 patents during my tenure at SSI<br><br>
 # 💫 Education:
 <br>👨‍🎓 Along with my research engineer position i am doing my second MS in Robotic from Defense Institute of Advanced Technology, India<br>👨‍🎓 I have completed my M-Tech in Robotic from Defense Institute of Advanced Technology, India<br>👨‍🎓 I have completed my B-Tech from Dr APJ Abdul Kalam Technical University, India<br>👨‍💻 I like to develop applications that solve real life problems.<br>
