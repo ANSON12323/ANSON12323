@@ -10,7 +10,8 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
 5. Developed algorithms and controls for multiple applications for surgical robotics  
 </div>
 <br>I hold 4 patents during my tenure at SSI<br><br>
-# 💫 Education:
+
+# 💫 Academics:
 <br>👨‍🎓 Along with my research engineer position i am doing my second MS in Robotic from Defense Institute of Advanced Technology, India<br>👨‍🎓 I have completed my M-Tech in Robotic from Defense Institute of Advanced Technology, India<br>👨‍🎓 I have completed my B-Tech from Dr APJ Abdul Kalam Technical University, India<br>👨‍💻 I like to develop applications that solve real life problems.<br>
 
 
