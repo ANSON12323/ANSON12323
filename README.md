@@ -60,7 +60,7 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
   </a>
   <a href="https://www.linkedin.com/in/anson-paul-0b0118168/overlay/1752983469273/single-media-viewer/?type=IMAGE&profileId=ACoAACfiU4QB-5R2x2AxZIIfsAwSojv7cInRufI" target="_blank">
     <img src="https://github.com/user-attachments/assets/9d980e2b-18f8-496d-a076-135f2b7e1dd1" width="250" />
-    <span><sub><b>SSI Mantra 3 Launch</b></sub></span>
+    <span><sub><b>Research Work at Neuro science research showcase</b></sub></span>
   </a>
 </p>
 
