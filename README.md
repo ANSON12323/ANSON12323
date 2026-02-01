@@ -24,19 +24,19 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
 <p align="left">
   <a href="[https://your-link-1.com](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025154091&_cid=P10-MDLRT4-68426-1)" target="_blank">
     <img src="https://github.com/user-attachments/assets/4d35b90c-016f-417c-8f77-2d2972cda3df" width="200" />
-    <sub><b>Patent 1</b></sub>
+    <span><sub><b>Patent 1</b></sub></span>
   </a>
   <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025154091&_cid=P10-MDLRT4-68426-1" target="_blank">
     <img src="https://github.com/user-attachments/assets/d7048ba4-7f54-4fd7-b844-2e36dea7a741" width="200" />
-    <sub><b>Patent 2</b></sub>
+    <span><sub><b>Patent 1</b></sub></span>
   </a>
   <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025158450&_cid=P22-MDXOKC-81123-1" target="_blank">
     <img src="https://github.com/user-attachments/assets/3947513e-d314-4611-aec1-993a75c2a284" width="200" />
-    <sub><b>Patent 3</b></sub>
+    <span><sub><b>Patent 1</b></sub></span>
   </a>
   <a href="https://patentscope.wipo.int/search/en/WO2025191595" target="_blank">
     <img src="https://github.com/user-attachments/assets/aed8348e-0f5e-4c1a-aa84-34b4c887a088" width="200" />
-    <sub><b>Patent 4</b></sub>
+    <span><sub><b>Patent 1</b></sub></span>
   </a>
 </p>
 
