@@ -22,8 +22,8 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
 
 ## 🌐 Media:
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/615c9143-c196-48ff-a44f-d6eee85f179d" width="300" />
-  <img src="https://github.com/user-attachments/assets/00e53bbd-3611-40be-875c-a5d332ea9586" width="300" />
+  <img src="https://github.com/user-attachments/assets/615c9143-c196-48ff-a44f-d6eee85f179d" width="280" />
+  <img src="https://github.com/user-attachments/assets/00e53bbd-3611-40be-875c-a5d332ea9586" width="280" />
 </p>
 
 ## 🌐 Motivation:
