@@ -43,8 +43,14 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
 
 ## 🌐 Media:
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/615c9143-c196-48ff-a44f-d6eee85f179d" width="280" />
-  <img src="https://github.com/user-attachments/assets/9d980e2b-18f8-496d-a076-135f2b7e1dd1" width="280" />
+   <a href="[https://your-link-1.com](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025154091&_cid=P10-MDLRT4-68426-1)" target="_blank">
+    <img src="https://github.com/user-attachments/assets/615c9143-c196-48ff-a44f-d6eee85f179d" width="250" />
+    <span><sub><b>SSI Mantra 3 Launch</b></sub></span>
+  </a>
+  <a href="[https://your-link-1.com](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025154091&_cid=P10-MDLRT4-68426-1)" target="_blank">
+    <img src="https://github.com/user-attachments/assets/9d980e2b-18f8-496d-a076-135f2b7e1dd1" width="250" />
+    <span><sub><b>SSI Mantra 3 Launch</b></sub></span>
+  </a>
 </p>
 
 ## 🌐 Motivation:
