@@ -1,7 +1,7 @@
 # 💫 Hi there, I am Anson:
 I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on free time and a passionate Robotics Engineer with a passion to build and develop Robotics which makes our life easier.<br>
 # 💫 About Me:
-<br>👨‍🎓 I am currently working as a Graduate Research Engineer at UNLV, where we are developing a single port multi arm tool for minimally invasive neurosurgery.<br>👨‍🎓 Previously I was working as a Robotics Software Engineer at SS Innovations International Inc, where we indigenously developed India's first surgical robotics system SSI Mantra.<br>I have been part of multiple projects,<br>Major ones include<br>1.Calibration of the Modular surgical robots<br>2.Head tracking for open console safety<br>3.Telesurgery<br>4.Dual console development<br>5.Developed algorithms and controls for multiple applications for surgical robotics<br><br>I hold 4 patents during my tenure at SSI<br><br>
+<br>👨‍🎓 I am currently working as a Graduate Research Engineer at UNLV, where we are developing a single port multi arm tool for minimally invasive neurosurgery.<br>👨‍🎓 Previously I was working as a Robotics Software Engineer at SS Innovations International Inc, where we indigenously developed India's first surgical robotics system SSI Mantra.<br>I have been part of multiple projects,<br>Major ones include<br>   1.Calibration of the Modular surgical robots<br>   2.Head tracking for open console safety<br>   3.Telesurgery<br>   4.Dual console development<br>5.Developed algorithms and controls for multiple applications for surgical robotics<br><br>I hold 4 patents during my tenure at SSI<br><br>
 # 💫 Education:
 <br>👨‍🎓 Along with my research engineer position i am doing my second MS in Robotic from Defense Institute of Advanced Technology, India<br>👨‍🎓 I have completed my M-Tech in Robotic from Defense Institute of Advanced Technology, India<br>👨‍🎓 I have completed my B-Tech from Dr APJ Abdul Kalam Technical University, India<br>👨‍💻 I like to develop applications that solve real life problems.<br>
 
@@ -19,6 +19,11 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ANSON12323&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Media:
+![Launch](https://github.com/user-attachments/assets/615c9143-c196-48ff-a44f-d6eee85f179d)
+
+![Poster](https://github.com/user-attachments/assets/00e53bbd-3611-40be-875c-a5d332ea9586)
 
 ## 🌐 Motivation:
 ![Tony 2](https://github.com/user-attachments/assets/cdb192bd-0087-4b73-a7b6-64f6ef9d322c)
