@@ -36,16 +36,7 @@ I am a die hard Tony Stark(Ironman) fan who likes to work on hobby projects on f
 <table align="center"> <tr> <td align="center"> <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=EP436115185&_fid=WO2024121859" target="_blank"> <img src="https://github.com/user-attachments/assets/4d35b90c-016f-417c-8f77-2d2972cda3df" width="200"><br> <sub><b>Patent 1</b></sub> </a> </td> <td align="center"> <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025154091&_cid=P10-MDLRT4-68426-1" target="_blank"> <img src="https://github.com/user-attachments/assets/d7048ba4-7f54-4fd7-b844-2e36dea7a741" width="200"><br> <sub><b>Patent 2</b></sub> </a> </td> <td align="center"> <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025158450&_cid=P22-MDXOKC-81123-1" target="_blank"> <img src="https://github.com/user-attachments/assets/3947513e-d314-4611-aec1-993a75c2a284" width="200"><br> <sub><b>Patent 3</b></sub> </a> </td> <td align="center"> <a href="https://patentscope.wipo.int/search/en/WO2025191595" target="_blank"> <img src="https://github.com/user-attachments/assets/aed8348e-0f5e-4c1a-aa84-34b4c887a088" width="200"><br> <sub><b>Patent 4</b></sub> </a> </td> </tr> </table>
 
 ## 🌐 Media:
-<p align="left">
-   <a href="https://www.linkedin.com/in/anson-paul-0b0118168/overlay/1730482545606/single-media-viewer/?type=IMAGE&profileId=ACoAACfiU4QB-5R2x2AxZIIfsAwSojv7cInRufI" target="_blank">
-    <img src="https://github.com/user-attachments/assets/615c9143-c196-48ff-a44f-d6eee85f179d" width="250" />
-    <span><sub><b>SSI Mantra 3 Launch</b></sub></span>
-  </a>
-  <a href="https://www.linkedin.com/in/anson-paul-0b0118168/overlay/1752983469273/single-media-viewer/?type=IMAGE&profileId=ACoAACfiU4QB-5R2x2AxZIIfsAwSojv7cInRufI" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9d980e2b-18f8-496d-a076-135f2b7e1dd1" width="250" />
-    <span><sub><b>Research Work at Neuro science research showcase</b></sub></span>
-  </a>
-</p>
+<table align="center"> <tr> <td align="center"> <a href="https://www.linkedin.com/in/anson-paul-0b0118168/overlay/1730482545606/single-media-viewer/?type=IMAGE&profileId=ACoAACfiU4QB-5R2x2AxZIIfsAwSojv7cInRufI" target="_blank"> <img src="https://github.com/user-attachments/assets/615c9143-c196-48ff-a44f-d6eee85f179d" width="260"><br> <sub><b>SSI Mantra 3 Launch</b></sub> </a> </td> <td align="center"> <a href="https://www.linkedin.com/in/anson-paul-0b0118168/overlay/1752983469273/single-media-viewer/?type=IMAGE&profileId=ACoAACfiU4QB-5R2x2AxZIIfsAwSojv7cInRufI" target="_blank"> <img src="https://github.com/user-attachments/assets/9d980e2b-18f8-496d-a076-135f2b7e1dd1" width="260"><br> <sub><b>Research Work at Neuroscience Research Showcase</b></sub> </a> </td> </tr> </table>
 
 ## 🌐 Motivation:
 ![Tony 2](https://github.com/user-attachments/assets/cdb192bd-0087-4b73-a7b6-64f6ef9d322c)
